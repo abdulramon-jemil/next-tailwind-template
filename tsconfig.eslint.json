@@ -4,7 +4,7 @@
     "src",
     "lint-staged.config.js",
     "next.config.js",
-    "tailwind.config.ts",
+    "tailwind.config.js",
     "postcss.config.js",
     ".eslintrc.js",
     ".prettierrc.js"
