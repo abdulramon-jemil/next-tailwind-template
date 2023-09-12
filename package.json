@@ -1,6 +1,6 @@
 {
-  "name": "carelink",
-  "description": "Stay on top of your health; manage your records, and connect with professionals",
+  "name": "next-tailwind-template",
+  "description": "A simple Next.js template set up with tailwind and Shadcn UI",
   "version": "0.1.0",
   "private": true,
   "scripts": {
